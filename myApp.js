@@ -4,6 +4,10 @@ const app = express();
 const secure = helmet();
 
 
+console.log('🥦 — Security Information application has started on Port 3000');
+
+
+
 
 
 
